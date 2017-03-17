@@ -13,3 +13,28 @@ li {
 h1 {
   color: #fff;
 }
+
+.masthead {
+  background-color: #423ca3;
+  text-align: center;
+}
+
+.btn {
+  border-color: transparent;
+  background-color: #15114c;
+}
+
+@media only screen and (min-width: 60em) {
+
+  .masthead {
+    text-align: left;
+  }
+
+  .logo {
+    text-align: left;
+  }
+
+  .nav {
+    text-align: right;
+  }
+}
