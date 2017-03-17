@@ -1,3 +1,15 @@
 html {
   font-family: "Abhaya Libre", serif;
 }
+
+.logo {
+  text-align: center;
+}
+
+li {
+  display: inline-block;
+}
+
+h1 {
+  color: #fff;
+}
